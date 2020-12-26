@@ -1,0 +1,18 @@
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(160,209,93,1) 0%, rgba(0,212,255,1) 85%);
+    text-align: center;
+    background-repeat: no-repeat;
+}
+img{
+    border-radius: 50%;
+    width:100px;
+}
+h1{
+    text-shadow: 2px 2px #F8BBD0;
+}
+#para{
+    padding: 20px;
+    font-size: 25;
+    text-align: center;
+}
